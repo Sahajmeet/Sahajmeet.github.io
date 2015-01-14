@@ -1,2 +1,5 @@
 source 'https://rubygems.org'
 gem 'github-pages'
+gem 'RedCloth'
+gem 'i18n'
+gem 'json'
